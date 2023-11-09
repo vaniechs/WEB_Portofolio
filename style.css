@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.card {
+    border: 3px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    background-color:blanchedalmond;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+}
+.d-flex {
+    display: flex;
+}
+.img-rounded {
+    border-radius: 50%;
+}
+.stretch {
+    gap: 5rem;
+    justify-content: stretch;
+}
+.p-10 {
+    padding: 50px 100px;
+}
+.p-5 {
+    padding: 50px;
+    font-size: 25px;
+}
+
+.nama {
+    padding: 5px;
+}
+
